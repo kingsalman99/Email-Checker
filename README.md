@@ -1,4 +1,4 @@
 # Email-Checker
 c'est un programme en python pour verifier si une email et valide ou existe
-# Orgiginal
+# Original
 https://github.com/SizeDevv/Simple-Email-Checker
